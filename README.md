@@ -18,10 +18,7 @@
 
 ## 游戏预览
 
-![image1](https://github.com/LarryzhouLU/G-bitGameJam/assets/89344851/79cbda14-6e72-4b9c-ab3a-75c31eb01ec3)
+<img src="https://github.com/LarryzhouLU/G-bitGameJam/assets/89344851/79cbda14-6e72-4b9c-ab3a-75c31eb01ec3" alt="image1" width="600" height="300" align="center" />
 
-<img src="https://github.com/LarryzhouLU/G-bitGameJam/assets/89344851/79cbda14-6e72-4b9c-ab3a-75c31eb01ec3" alt="image1" width="500" height="300" align="center" />
 
-![image2](https://github.com/LarryzhouLU/G-bitGameJam/assets/89344851/05527eed-19d5-4add-a7d9-2bc28bdaa728)
-
-<img src="https://github.com/LarryzhouLU/G-bitGameJam/assets/89344851/05527eed-19d5-4add-a7d9-2bc28bdaa728" alt="image2" width="500" height="300" align="center" />
+<img src="https://github.com/LarryzhouLU/G-bitGameJam/assets/89344851/05527eed-19d5-4add-a7d9-2bc28bdaa728" alt="image2" width="600" height="300" align="center" />
