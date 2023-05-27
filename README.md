@@ -11,4 +11,13 @@
 [反射弧.mp4](https://github.com/LarryzhouLU/G-bitGameJam/blob/main/%E5%8F%8D%E5%B0%84%E7%8B%90.mp4)
 
 ## 游戏玩法
-详情见[反射弧.pdf](https://github.com/LarryzhouLU/G-bitGameJam/blob/main/%E6%88%90%E7%BE%A4%E7%BB%93%E9%98%9F-%E5%8F%8D%E5%B0%84%E7%8B%90(1).pdf)
+
+见:
+
+[反射弧.pdf](https://github.com/LarryzhouLU/G-bitGameJam/blob/main/%E6%88%90%E7%BE%A4%E7%BB%93%E9%98%9F-%E5%8F%8D%E5%B0%84%E7%8B%90(1).pdf)
+
+## 游戏预览
+
+![image](https://github.com/LarryzhouLU/G-bitGameJam/assets/89344851/79cbda14-6e72-4b9c-ab3a-75c31eb01ec3)
+
+![image](https://github.com/LarryzhouLU/G-bitGameJam/assets/89344851/05527eed-19d5-4add-a7d9-2bc28bdaa728)
