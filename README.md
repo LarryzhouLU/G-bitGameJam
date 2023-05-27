@@ -8,7 +8,7 @@
 ## 视频演示
 见：
 
-[视频](https://github.com/LarryzhouLU/G-bitGameJam/blob/main/%E5%8F%8D%E5%B0%84%E7%8B%90.mp4)
+[反射弧.mp4](https://github.com/LarryzhouLU/G-bitGameJam/blob/main/%E5%8F%8D%E5%B0%84%E7%8B%90.mp4)
 
 ## 游戏玩法
-详情见[pdf]()
+详情见[反射弧.pdf]()
